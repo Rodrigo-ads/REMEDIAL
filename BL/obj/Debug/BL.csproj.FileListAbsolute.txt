@@ -1,0 +1,11 @@
+D:\RM\BL\bin\Debug\BL.dll
+D:\RM\BL\bin\Debug\BL.pdb
+D:\RM\BL\bin\Debug\DAL.dll
+D:\RM\BL\bin\Debug\Entidades.dll
+D:\RM\BL\bin\Debug\DAL.pdb
+D:\RM\BL\bin\Debug\Entidades.pdb
+D:\RM\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\RM\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\RM\BL\obj\Debug\BL.csproj.CopyComplete
+D:\RM\BL\obj\Debug\BL.dll
+D:\RM\BL\obj\Debug\BL.pdb
